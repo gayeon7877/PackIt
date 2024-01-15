@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="52.79.159.220" id="85428750-4338-4c3c-a844-9300a36120b4" keyPath="C:\Users\gayea\OneDrive\바탕 화면\aws key 모음\PackItKeyPair.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

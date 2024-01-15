@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b1e21281-bfdc-456b-93c3-1b216f0a5432" name="PackItServer">
+        <fileTransfer accessType="SFTP" host="52.79.159.220" port="22" sshConfigId="85428750-4338-4c3c-a844-9300a36120b4" sshConfig="ubuntu@52.79.159.220:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
