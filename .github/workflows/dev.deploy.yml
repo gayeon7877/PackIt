@@ -37,8 +37,6 @@ jobs:
       - name: Install dependencies
         run: npm ci   # dependencies 설치 npm ci, npm install 모두 다 됨!
 
-      #- name: Run Build
-      #  run: npm start # 빌드
       - name: Run Build
         run: npm run build # 빌드
 
