@@ -5,7 +5,7 @@ const options = {
         info: {
             title: 'PACKIT API',
             version: '1.0.0',
-            description: 'PACKIT API(v1)'
+            description: 'PACKIT API'
         },
         host: 'localhost:3000',
         basepath: '../'
