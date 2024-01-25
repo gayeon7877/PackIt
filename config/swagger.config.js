@@ -5,7 +5,7 @@ const options = {
         info: {
             title: 'PACKIT API',
             version: '1.0.0',
-            description: 'PackIt (v1)'
+            description: 'PackIt (v1.0)'
         },
         servers: [
             {
